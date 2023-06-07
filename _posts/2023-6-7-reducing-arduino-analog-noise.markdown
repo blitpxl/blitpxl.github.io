@@ -7,9 +7,10 @@ image:
   path: https://images.unsplash.com/photo-1586920740099-f3ceb65bc51e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80
   alt: Photo by Harrison Broadbent at Unsplash
 ---
-
+<head>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4816384316039267"
      crossorigin="anonymous"></script>
+</head>
 
 Arduino is one of the most popular and versatile microcontrollers with its user ranged from hobbyists to full-scale industry.
 The reason it is so widely adopted by many people is because of its low cost and ease of development. However, when I tried the Arduino myself, I encountered some problems. One of which is the analog pin's sensitivity. It is very sensitive. The data I received from the analog pin can be easily skewed by small things such as touching the analog pin with your finger, turning on other electrical appliances in your house, and even mouse movement when I attached the Arduino to my computer through USB.

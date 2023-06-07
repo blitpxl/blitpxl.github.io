@@ -20,7 +20,7 @@ timezone:
 
 title: BlitPxl # the main title
 
-tagline: Random computer-related posting. # it will display as the sub-title
+tagline: Arbitrary computer-related posting. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Website where I will be posting about programming, computers, hardwares, tutorials, rants, etc.
