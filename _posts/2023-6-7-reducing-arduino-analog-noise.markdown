@@ -8,6 +8,9 @@ image:
   alt: Photo by Harrison Broadbent at Unsplash
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4816384316039267"
+     crossorigin="anonymous"></script>
+
 Arduino is one of the most popular and versatile microcontrollers with its user ranged from hobbyists to full-scale industry.
 The reason it is so widely adopted by many people is because of its low cost and ease of development. However, when I tried the Arduino myself, I encountered some problems. One of which is the analog pin's sensitivity. It is very sensitive. The data I received from the analog pin can be easily skewed by small things such as touching the analog pin with your finger, turning on other electrical appliances in your house, and even mouse movement when I attached the Arduino to my computer through USB.
 
