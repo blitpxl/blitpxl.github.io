@@ -1,7 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+title:  "Introduction"
+date:   2024-06-14
+categories: untamed
+tag: personal
 ---
 
 # Greetings, fellow weary internet travellers!
