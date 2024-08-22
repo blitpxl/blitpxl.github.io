@@ -4,7 +4,7 @@ date: 2024-06-25
 categories: [Programming, Concept]
 tags: [physics, gamedev]
 image:
-  path: /assets/img/blog/25JUN/johann_v.webp
+  path: /assets/img/blog/2024/06/25/johann_v.webp
   alt: Johannes Vermeer's "The Girl With The Pearl Earring"
 ---
 
@@ -20,7 +20,7 @@ In computer Programming, **Axis-Aligned Bounding Box**, or **AABB** for short, i
 
 Most games use *homogeneous comparison*, meaning it's comparing **AABB** against another **AABB** to detect collisions.
 
-![pong-aabb](/assets/img/blog/25JUN/pong_aabb.webp)
+![pong-aabb](/assets/img/blog/2024/06/25/pong_aabb.webp)
 _Basic game of Pong with striped rectangles to visualize AABB_
 
 
@@ -30,7 +30,7 @@ Graphical User Interface (**GUI**), as we know and love, also makes use of **AAB
 
 The only difference between detecting collisions in a game and checking if a mouse is hovering a button or not, is that the latter uses nonhomogenous comparison. We're now comparing **AABB**s to a point in a two 2D space, which is much more simpler and faster than comparing against another AABB.
 
-![mouse-aabb](/assets/img/blog/25JUN/mouse.webp)
+![mouse-aabb](/assets/img/blog/2024/06/25/mouse.webp)
 _Basic GUI with a mouse cursor and a button in the middle_
 
 
@@ -40,5 +40,5 @@ _Basic GUI with a mouse cursor and a button in the middle_
 
 A homogeneous **AABB** comparison can firstly be done by calculating if both **AABB**s intersects in the x axis.
 
-![xintersect-aabb](/assets/img/blog/25JUN/aabb_sketch_compx.webp)
+![xintersect-aabb](/assets/img/blog/2024/06/25/aabb_sketch_compx.webp)
 _Checking both AABB's x axis to see if they overlap each other_
