@@ -12,6 +12,7 @@ layout: compress
     font-family: "JetBrains Mono", monospace;
     font-size: 24pt;
     font-weight: bold;
+    color: white;
   }
 
   a {
