@@ -21,8 +21,15 @@ layout: compress
   }
 
   .webimg {
-    margin-right: 4px;
-    margin-bottom: 8px;
+    margin: 4;
+    width: 600px;
+  }
+
+  @media only screen and (max-width: 800px){
+      .webimg {
+      margin: 4;
+      width: 400px;
+    }
   }
 </style>
 
