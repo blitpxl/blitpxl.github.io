@@ -15,28 +15,46 @@ layout: compress
     color: white;
   }
 
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
   a {
     color: white;
     text-decoration: none;
+    
+    font-size: 24pt;
+    animation: 1s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 slideInFromLeft;
+    transition: font-size 0.25s;
+    display: inline-block
   }
 
   a:hover {
     text-decoration: underline;
+    transition: font-size 0.25s;
+    font-size: 28pt;
   }
 </style>
 
-[=> BLOG](https://blitpxl.com/){:target="_blank"}.
+[=> BLOG.](https://blitpxl.com/){:target="_blank"}
 <br>
-[=> GITHUB](https://github.com/blitpxl/){:target="_blank"}.
+[=> PHOTOGRAPHY.](https://blitpxl.com/photos){:target="_blank"}
 <br>
-[=> TWITTER](https://x.com/blitpxl/){:target="_blank"}.
+[=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
 <br>
-[=> INSTAGRAM](https://instagram.com/blitpxl/){:target="_blank"}.
+[=> TWITTER.](https://x.com/blitpxl/){:target="_blank"}
 <br>
-[=> THREADS](https://threads.net/blitpxl/){:target="_blank"}.
+[=> INSTAGRAM.](https://instagram.com/blitpxl/){:target="_blank"}
 <br>
-[=> GOODREADS](https://www.goodreads.com/user/show/172162025-kevin-satrianto/){:target="_blank"}.
+[=> THREADS.](https://threads.net/blitpxl/){:target="_blank"}
 <br>
-[=> BACKLOGGD](https://backloggd.com/u/blitpxl/){:target="_blank"}.
+[=> GOODREADS.](https://www.goodreads.com/user/show/172162025-kevin-satrianto/){:target="_blank"}
 <br>
-[=> LETTERBOXD](https://letterboxd.com/blitpxl/){:target="_blank"}.
+[=> BACKLOGGD.](https://backloggd.com/u/blitpxl/){:target="_blank"}
+<br>
+[=> LETTERBOXD.](https://letterboxd.com/blitpxl/){:target="_blank"}
