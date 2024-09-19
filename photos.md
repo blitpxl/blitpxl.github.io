@@ -15,9 +15,8 @@ layout: compress
   }
 
   h1 {
-    font-size: 32pt;
+    font-size: 36pt;
     text-align: center;
-
   }
 
   .webimg {
@@ -25,10 +24,27 @@ layout: compress
     width: 600px;
   }
 
-  @media only screen and (max-width: 800px){
-      .webimg {
+  @media only screen and (max-width: 650px){
+    .webimg {
       margin: 4;
       width: 400px;
+    }
+
+    h1 {
+      font-size: 24pt;
+      text-align: center;
+    }
+  }
+
+  @media only screen and (max-width: 425px){
+    .webimg {
+      margin: 4;
+      width: 300px;
+    }
+
+    h1 {
+      font-size: 16pt;
+      text-align: center;
     }
   }
 </style>
