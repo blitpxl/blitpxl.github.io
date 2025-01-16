@@ -47,14 +47,6 @@ layout: compress
 <br>
 [=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
 <br>
-[=> TWITTER.](https://x.com/blitpxl/){:target="_blank"}
-<br>
 [=> INSTAGRAM.](https://instagram.com/blitpxl/){:target="_blank"}
 <br>
-[=> THREADS.](https://threads.net/blitpxl/){:target="_blank"}
-<br>
 [=> GOODREADS.](https://www.goodreads.com/user/show/172162025-kevin-satrianto/){:target="_blank"}
-<br>
-[=> BACKLOGGD.](https://backloggd.com/u/blitpxl/){:target="_blank"}
-<br>
-[=> LETTERBOXD.](https://letterboxd.com/blitpxl/){:target="_blank"}
