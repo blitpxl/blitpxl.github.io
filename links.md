@@ -43,6 +43,8 @@ layout: compress
 
 [=> BLOG.](https://blitpxl.com/){:target="_blank"}
 <br>
+[=> SOFTWARE.](https://blitpxl.gumroad.com/){:target="_blank"}
+<br>
 [=> PHOTOGRAPHY.](https://blitpxl.com/photos){:target="_blank"}
 <br>
 [=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
