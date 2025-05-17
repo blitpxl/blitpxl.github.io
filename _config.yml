@@ -18,7 +18,7 @@ email: kevin@blitpxl.com
 description: place of untamed musings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blitpxl.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+twitter_username: 
 github_username:  blitpxl
 
 # Build settings

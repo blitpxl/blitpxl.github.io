@@ -1,5 +1,7 @@
 ---
 layout: compress
+title: other
+permalink: /other/
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,12 +45,10 @@ layout: compress
 
 [=> BLOG.](https://blitpxl.com/){:target="_blank"}
 <br>
-[=> SOFTWARE.](https://blitpxl.gumroad.com/){:target="_blank"}
-<br>
 [=> PHOTOGRAPHY.](https://blitpxl.com/photos){:target="_blank"}
 <br>
 [=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
 <br>
 [=> INSTAGRAM.](https://instagram.com/blitpxl/){:target="_blank"}
 <br>
-[=> GOODREADS.](https://www.goodreads.com/user/show/172162025-kevin-satrianto/){:target="_blank"}
+[=> BLUESKY.](https://bsky.app/profile/blitpxl.bsky.social){:target="_blank"}
