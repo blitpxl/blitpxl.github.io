@@ -70,9 +70,15 @@ layout: compress
     text-align: center;
     }
   }
+
+  a {
+    color: #ffb870;
+    text-align: center;
+    display: block;
+  }
 </style>
 
-# [WEB].PHOTOGRAPHY
+# <font color="#ffb870">[WEB].</font>PHOTOGRAPHY
 
 ## "DIGITAL FILM VOL I"
 <p float="left" align="middle">
@@ -83,3 +89,5 @@ layout: compress
   <img class="webimg" src="/assets/photos/Windstopper.webp" width="600"/>
   <img class="webimg" src="/assets/photos/World Construct.webp" width="600"/>
 </p>
+
+[BUY THIS COLLECTION](https://blitpxl.gumroad.com/l/filmvolone)
