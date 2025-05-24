@@ -19,7 +19,8 @@ description: place of untamed musings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blitpxl.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  blitpxl
+github_username: blitpxl
+disqus_shortname: blitpxl
 
 # Build settings
 markdown: kramdown

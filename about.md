@@ -4,9 +4,4 @@ title: about
 permalink: /about/
 ---
 
-just some rando with a computer.
-
-my other links: \
-[linkedin](https://www.linkedin.com/in/kevin-putra-satrianto-1175a2205/) \
-[youtube](https://www.youtube.com/@blitpxl) \
-[my photography](https://photos.blitpxl.com)
+i like computers.

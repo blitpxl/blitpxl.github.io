@@ -52,7 +52,6 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -87,6 +86,7 @@
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
+      border: 1px solid $brand-color;
     }
 
     .page-link {
@@ -228,7 +228,7 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * 5;
 
   h2 {
     @include relative-font-size(2);
