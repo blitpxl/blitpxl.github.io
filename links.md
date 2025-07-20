@@ -45,10 +45,12 @@ permalink: /links/
 
 [=> BLOG.](https://blitpxl.com/){:target="_blank"}
 <br>
-[=> PHOTOGRAPHY.](https://blitpxl.com/photos){:target="_blank"}
+[=> ARTSTATION.](https://www.artstation.com/blitpxl/){:target="_blank"}
 <br>
 [=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
 <br>
-[=> INSTAGRAM.](https://instagram.com/blitpxl/){:target="_blank"}
+[=> PHOTOGRAPHY.](https://blitpxl.com/photos){:target="_blank"}
 <br>
-[=> BLUESKY.](https://bsky.app/profile/blitpxl.bsky.social){:target="_blank"}
+[=> INSTAGRAM.](https://instagram.com/blitpxl.art/){:target="_blank"}
+<br>
+[=> LINKEDIN.](https://www.linkedin.com/in/kevin-satrianto-1175a2205/){:target="_blank"}
