@@ -45,7 +45,7 @@ permalink: /links/
 
 [=> BLOG.](https://blitpxl.com/){:target="_blank"}
 <br>
-[=> ARTSTATION.](https://www.artstation.com/blitpxl/){:target="_blank"}
+[=> ARTSTATION.](https://blitpxl.artstation.com/){:target="_blank"}
 <br>
 [=> GITHUB.](https://github.com/blitpxl/){:target="_blank"}
 <br>
